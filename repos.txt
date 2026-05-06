@@ -20,3 +20,6 @@ KaringX/karing|\.dmg|\.exe
 
 # 6. no fill v2rayn
 # 2dust/v2rayN|v2rayN-windows-64.zip
+
+# 7. beeg.com downlaoder
+# serpapps/beeg-video-downloader/
