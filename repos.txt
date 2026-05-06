@@ -22,4 +22,5 @@ KaringX/karing|\.dmg|\.exe
 # 2dust/v2rayN|v2rayN-windows-64.zip
 
 # 7. beeg.com downlaoder
-# serpapps/beeg-video-downloader/
+# serpapps/beeg-video-downloader|beeg-downloader-chrome.zip
+
