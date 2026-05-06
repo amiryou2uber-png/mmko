@@ -200,6 +200,36 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="masterking32--masterdnsvpn"></div>
+
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_MacOS_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+
+---
+
+<div id="serpapps--beeg-video-downloader"></div>
+
+### serpapps--beeg-video-downloader
+
+🔗 [source](https://github.com/serpapps/beeg-video-downloader) – [<code><small>v4.0.1</small></code>](https://github.com/serpapps/beeg-video-downloader/releases/tag/v4.0.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `beeg-downloader-brave.zip` | 1.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/serpapps/beeg-video-downloader/beeg-downloader-brave.zip) |
+| `beeg-downloader-chrome.zip` | 1.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/serpapps/beeg-video-downloader/beeg-downloader-chrome.zip) |
+| `beeg-downloader-edge.zip` | 1.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/serpapps/beeg-video-downloader/beeg-downloader-edge.zip) |
+| `beeg-downloader-opera.zip` | 1.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/serpapps/beeg-video-downloader/beeg-downloader-opera.zip) |
+| `beeg-downloader-whale.zip` | 1.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/serpapps/beeg-video-downloader/beeg-downloader-whale.zip) |
+| `beeg-downloader-yandex.zip` | 1.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/serpapps/beeg-video-downloader/beeg-downloader-yandex.zip) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
