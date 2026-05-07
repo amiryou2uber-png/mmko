@@ -24,3 +24,8 @@ masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
 # 7. beeg.com downlaoder
 serpapps/beeg-video-downloader
 
+# 8. sni spoofing patterniha
+patterniha/SNI-Spoofing
+
+# 9. sni spoofing rust 
+therealaleph/sni-spoofing-rust
