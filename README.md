@@ -258,6 +258,25 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="telegramdesktop--tdesktop"></div>
+
+### telegramdesktop--tdesktop
+
+🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v6.8.1</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v6.8.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `tdesktop-6.8.1-full.tar.gz` | 73.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tdesktop-6.8.1-full.tar.gz) |
+| `tportable-arm64.6.8.1.zip` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tportable-arm64.6.8.1.zip) |
+| `tportable-x64.6.8.1.zip` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tportable-x64.6.8.1.zip) |
+| `tportable.6.8.1.zip` | 57.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tportable.6.8.1.zip) |
+| `tsetup-arm64.6.8.1.exe` | 45.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup-arm64.6.8.1.exe) |
+| `tsetup-x64.6.8.1.exe` | 49.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup-x64.6.8.1.exe) |
+| `tsetup.6.8.1.exe` | 44.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup.6.8.1.exe) |
+| `tsetup.6.8.1.tar.xz` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup.6.8.1.tar.xz) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
