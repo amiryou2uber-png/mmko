@@ -32,3 +32,6 @@ therealaleph/sni-spoofing-rust
 
 # 10. mmk
 2dust/v2rayN
+
+# 11. telegram desktop
+telegramdesktop/tdesktop
