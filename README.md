@@ -241,6 +241,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="pedramksh--mhr-cfw-gui"></div>
+
+### pedramksh--mhr-cfw-gui
+
+🔗 [source](https://github.com/pedramksh/mhr-cfw-gui) – [<code><small>V1.1</small></code>](https://github.com/pedramksh/mhr-cfw-gui/releases/tag/V1.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `MHR-CFW-GUI.exe` | 51.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/pedramksh/mhr-cfw-gui/MHR-CFW-GUI.exe) |
+
+---
+
 <div id="serpapps--beeg-video-downloader"></div>
 
 ### serpapps--beeg-video-downloader
