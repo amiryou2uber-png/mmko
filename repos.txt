@@ -35,3 +35,9 @@ therealaleph/sni-spoofing-rust
 
 # 11. telegram desktop
 telegramdesktop/tdesktop
+
+# 12. mhr cloudflare gui
+pedramksh/mhr-cfw-gui
+
+# 13. mhr cloudflare
+denuitt1/mhr-cfw
