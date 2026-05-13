@@ -206,12 +206,12 @@ sha256sum FILE_NAME
 
 ### NullLatency--FlowDriver
 
-🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
+🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.5</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
-| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
+| `flowdriver-client-v0.0.5-linux-amd64.zip` | 4.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/NullLatency/FlowDriver/flowdriver-client-v0.0.5-linux-amd64.zip) |
+| `flowdriver-server-v0.0.5-linux-amd64.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/NullLatency/FlowDriver/flowdriver-server-v0.0.5-linux-amd64.zip) |
 
 ---
 
@@ -290,18 +290,18 @@ sha256sum FILE_NAME
 
 ### telegramdesktop--tdesktop
 
-🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v6.8.1</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v6.8.1)
+🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v6.8.2</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v6.8.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `tdesktop-6.8.1-full.tar.gz` | 73.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tdesktop-6.8.1-full.tar.gz) |
-| `tportable-arm64.6.8.1.zip` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tportable-arm64.6.8.1.zip) |
-| `tportable-x64.6.8.1.zip` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tportable-x64.6.8.1.zip) |
-| `tportable.6.8.1.zip` | 57.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tportable.6.8.1.zip) |
-| `tsetup-arm64.6.8.1.exe` | 45.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup-arm64.6.8.1.exe) |
-| `tsetup-x64.6.8.1.exe` | 49.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup-x64.6.8.1.exe) |
-| `tsetup.6.8.1.exe` | 44.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup.6.8.1.exe) |
-| `tsetup.6.8.1.tar.xz` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup.6.8.1.tar.xz) |
+| `tdesktop-6.8.2-full.tar.gz` | 73.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tdesktop-6.8.2-full.tar.gz) |
+| `tportable-x64.6.8.2.zip` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tportable-x64.6.8.2.zip) |
+| `tportable.6.8.2.zip` | 57.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tportable.6.8.2.zip) |
+| `tsetup-x64.6.8.2.exe` | 49.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup-x64.6.8.2.exe) |
+| `tsetup.6.8.2.exe` | 44.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup.6.8.2.exe) |
+| `tsetup.6.8.2.tar.xz` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup.6.8.2.tar.xz) |
+| `tsetup.6.8.2.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup.6.8.2.dmg.001) |
+| `tsetup.6.8.2.dmg (part 2 of 2)` | 43.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/telegramdesktop/tdesktop/tsetup.6.8.2.dmg.002) |
 
 ---
 
@@ -309,26 +309,26 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.21</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.21)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.23</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.23)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.21.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.21.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.21.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.21.apk) |
-| `mhrv-rs-android-universal-v1.9.21.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.21.apk) |
-| `mhrv-rs-android-x86-v1.9.21.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.21.apk) |
-| `mhrv-rs-android-x86_64-v1.9.21.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.21.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-android-arm64-v8a-v1.9.23.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.23.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.23.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.23.apk) |
+| `mhrv-rs-android-universal-v1.9.23.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.23.apk) |
+| `mhrv-rs-android-x86-v1.9.23.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.23.apk) |
+| `mhrv-rs-android-x86_64-v1.9.23.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.23.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
 | `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-amd64.tar.gz` | 7.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
 | `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
 | `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
 | `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 
 ---
 
