@@ -245,6 +245,23 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="mirarr-app--network-checker"></div>
+
+### mirarr-app--network-checker
+
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.6.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.6.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `app-arm64-v8a-release.apk` | 31.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
+| `app-armeabi-v7a-release.apk` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
+| `app-release.apk` | 52.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-release.apk) |
+| `app-x86_64-release.apk` | 20.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
+| `rdnbenet-linux-x64.zip` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
+| `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
+
+---
+
 <div id="patterniha--sni-spoofing"></div>
 
 ### patterniha--SNI-Spoofing
@@ -336,13 +353,19 @@ sha256sum FILE_NAME
 
 ### therealaleph--sni-spoofing-rust
 
-🔗 [source](https://github.com/therealaleph/sni-spoofing-rust) – [<code><small>v0.5.1</small></code>](https://github.com/therealaleph/sni-spoofing-rust/releases/tag/v0.5.1)
+🔗 [source](https://github.com/therealaleph/sni-spoofing-rust) – [<code><small>v1.0.1</small></code>](https://github.com/therealaleph/sni-spoofing-rust/releases/tag/v1.0.1)
 
 | File | Size | Download |
 |------|------|----------|
 | `sni-spoof-rs-linux-amd64` | 1.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-linux-amd64) |
-| `sni-spoof-rs-linux-arm64` | 1.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-linux-arm64) |
+| `sni-spoof-rs-linux-arm64` | 1.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-linux-arm64) |
 | `sni-spoof-rs-macos-amd64` | 1.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-macos-amd64) |
 | `sni-spoof-rs-macos-arm64` | 1.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-macos-arm64) |
-| `sni-spoof-rs-windows-amd64.zip` | 730 KB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-windows-amd64.zip) |
+| `sni-spoof-rs-ui-linux-amd64` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-ui-linux-amd64) |
+| `sni-spoof-rs-ui-linux-amd64-bundle.tar.gz` | 17.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-ui-linux-amd64-bundle.tar.gz) |
+| `sni-spoof-rs-ui-macos-amd64` | 4.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-ui-macos-amd64) |
+| `sni-spoof-rs-ui-macos-amd64-bundle.tar.gz` | 15.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-ui-macos-amd64-bundle.tar.gz) |
+| `sni-spoof-rs-ui-macos-arm64` | 4.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-ui-macos-arm64) |
+| `sni-spoof-rs-ui-macos-arm64-bundle.tar.gz` | 13.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-ui-macos-arm64-bundle.tar.gz) |
+| `sni-spoof-rs-windows-amd64.zip` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
