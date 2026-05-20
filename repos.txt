@@ -44,3 +44,6 @@ denuitt1/mhr-cfw
 
 # 14. shir
 mirarr-app/network-checker
+
+# 15. shiro
+shirokhorshid/shirokhorshid-android
