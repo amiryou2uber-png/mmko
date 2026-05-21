@@ -47,3 +47,6 @@ mirarr-app/network-checker
 
 # 15. shiro
 shirokhorshid/shirokhorshid-android
+
+# 16. shiro pc
+shirokhorshid/psiphon-tunnel-core
