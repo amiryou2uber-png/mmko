@@ -161,31 +161,38 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.3)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.2</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.2)
 
 | File | Size | Download |
 |------|------|----------|
+| `v2rayN-linux-64.deb` | 76.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
 | `v2rayN-linux-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.001) |
-| `v2rayN-linux-64.zip (part 2 of 2)` | 29.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
+| `v2rayN-linux-64.zip (part 2 of 2)` | 33.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
+| `v2rayN-linux-arm64.deb` | 68.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
 | `v2rayN-linux-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.001) |
-| `v2rayN-linux-arm64.zip (part 2 of 2)` | 22.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
-| `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+| `v2rayN-linux-arm64.zip (part 2 of 2)` | 26.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
+| `v2rayN-linux-loong64.deb` | 64.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-loong64.deb) |
+| `v2rayN-linux-rhel-64.rpm` | 84.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
+| `v2rayN-linux-rhel-arm64.rpm` | 79.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
+| `v2rayN-linux-rhel-riscv64.rpm` | 78.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+| `v2rayN-linux-riscv64.deb (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-riscv64.deb.001) |
+| `v2rayN-linux-riscv64.deb (part 2 of 2)` | 43.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-riscv64.deb.002) |
 | `v2rayN-macos-64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.001) |
-| `v2rayN-macos-64.dmg (part 2 of 2)` | 27.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
+| `v2rayN-macos-64.dmg (part 2 of 2)` | 30.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
 | `v2rayN-macos-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.001) |
-| `v2rayN-macos-64.zip (part 2 of 2)` | 29.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
+| `v2rayN-macos-64.zip (part 2 of 2)` | 32.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
 | `v2rayN-macos-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.001) |
-| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 22.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
+| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 24.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
 | `v2rayN-macos-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.001) |
-| `v2rayN-macos-arm64.zip (part 2 of 2)` | 23.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
+| `v2rayN-macos-arm64.zip (part 2 of 2)` | 26.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 28.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 31.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 60.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 65.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
 | `v2rayN-windows-arm64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.001) |
-| `v2rayN-windows-arm64-desktop.zip (part 2 of 2)` | 20.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.002) |
+| `v2rayN-windows-arm64-desktop.zip (part 2 of 2)` | 24.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.002) |
 | `v2rayN-windows-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.001) |
-| `v2rayN-windows-arm64.zip (part 2 of 2)` | 50.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.002) |
+| `v2rayN-windows-arm64.zip (part 2 of 2)` | 54.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.002) |
 
 ---
 
