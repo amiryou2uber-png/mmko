@@ -50,3 +50,6 @@ shirokhorshid/shirokhorshid-android
 
 # 16. shiro pc
 shirokhorshid/psiphon-tunnel-core
+
+# 17. Se7en-Pro
+KNG7-P/Se7en-Pro
