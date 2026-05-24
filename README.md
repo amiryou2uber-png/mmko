@@ -268,7 +268,7 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.6.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.6.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.7.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.7.0)
 
 | File | Size | Download |
 |------|------|----------|
@@ -276,7 +276,7 @@ sha256sum FILE_NAME
 | `app-armeabi-v7a-release.apk` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
 | `app-release.apk` | 52.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-release.apk) |
 | `app-x86_64-release.apk` | 20.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
-| `rdnbenet-linux-x64.zip` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
+| `rdnbenet-linux-x64.zip` | 24.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
 | `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
 
 ---
@@ -326,11 +326,11 @@ sha256sum FILE_NAME
 
 ### shirokhorshid--shirokhorshid-android
 
-🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.05.14-8a28d0c</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c)
+🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.05.24-a3b91cf</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.24-a3b91cf)
 
 | File | Size | Download |
 |------|------|----------|
-| `ShirOKhorshid-2026.05.14.apk` | 23.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.05.14.apk) |
+| `ShirOKhorshid-2026.05.24.apk` | 25.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.05.24.apk) |
 
 ---
 
