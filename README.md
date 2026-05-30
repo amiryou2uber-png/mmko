@@ -161,32 +161,32 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.2</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.2)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayN-linux-64.deb` | 76.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
+| `v2rayN-linux-64.deb` | 75.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
 | `v2rayN-linux-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.001) |
 | `v2rayN-linux-64.zip (part 2 of 2)` | 33.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
-| `v2rayN-linux-arm64.deb` | 68.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
+| `v2rayN-linux-arm64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
 | `v2rayN-linux-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.001) |
-| `v2rayN-linux-arm64.zip (part 2 of 2)` | 26.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
-| `v2rayN-linux-loong64.deb` | 64.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-loong64.deb) |
-| `v2rayN-linux-rhel-64.rpm` | 84.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
+| `v2rayN-linux-arm64.zip (part 2 of 2)` | 26.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
+| `v2rayN-linux-loong64.deb` | 64.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-loong64.deb) |
+| `v2rayN-linux-rhel-64.rpm` | 84.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
 | `v2rayN-linux-rhel-arm64.rpm` | 79.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
 | `v2rayN-linux-rhel-riscv64.rpm` | 78.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
 | `v2rayN-linux-riscv64.deb (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-riscv64.deb.001) |
 | `v2rayN-linux-riscv64.deb (part 2 of 2)` | 43.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-linux-riscv64.deb.002) |
 | `v2rayN-macos-64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.001) |
-| `v2rayN-macos-64.dmg (part 2 of 2)` | 30.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
+| `v2rayN-macos-64.dmg (part 2 of 2)` | 30.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
 | `v2rayN-macos-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.001) |
 | `v2rayN-macos-64.zip (part 2 of 2)` | 32.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
 | `v2rayN-macos-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.001) |
-| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 24.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
+| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 24.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
 | `v2rayN-macos-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.001) |
 | `v2rayN-macos-arm64.zip (part 2 of 2)` | 26.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 31.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 31.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
 | `v2rayN-windows-64.zip (part 2 of 2)` | 65.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
 | `v2rayN-windows-arm64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.001) |
@@ -200,11 +200,11 @@ sha256sum FILE_NAME
 
 ### KNG7-P--Se7en-Pro
 
-🔗 [source](https://github.com/KNG7-P/Se7en-Pro) – [<code><small>v1.0.0</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.0)
+🔗 [source](https://github.com/KNG7-P/Se7en-Pro) – [<code><small>v1.0.1</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `Se7enPro_Setup.exe` | 76.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup.exe) |
+| `Se7enPro_Setup_1.0.1.exe` | 71.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup_1.0.1.exe) |
 
 ---
 
@@ -212,12 +212,12 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.19.2209</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.19.2209)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
-| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
+| `karing_1.2.19.2209_macos_universal.dmg` | 91.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/KaringX/karing/karing_1.2.19.2209_macos_universal.dmg) |
+| `karing_1.2.19.2209_windows_x64.exe` | 43.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/KaringX/karing/karing_1.2.19.2209_windows_x64.exe) |
 
 ---
 
@@ -268,13 +268,13 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.7.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.7.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.8.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.8.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `app-arm64-v8a-release.apk` | 31.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
 | `app-armeabi-v7a-release.apk` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
-| `app-release.apk` | 52.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-release.apk) |
+| `app-release.apk` | 52.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-release.apk) |
 | `app-x86_64-release.apk` | 20.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
 | `rdnbenet-linux-x64.zip` | 24.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
 | `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
@@ -357,26 +357,26 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.34</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.34)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.36</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.36)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.34.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.34.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.34.apk` | 17.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.34.apk) |
-| `mhrv-rs-android-universal-v1.9.34.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.34.apk) |
-| `mhrv-rs-android-x86-v1.9.34.apk` | 20.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.34.apk) |
-| `mhrv-rs-android-x86_64-v1.9.34.apk` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.34.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-android-arm64-v8a-v1.9.36.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.36.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.36.apk` | 17.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.36.apk) |
+| `mhrv-rs-android-universal-v1.9.36.apk` | 45.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.36.apk) |
+| `mhrv-rs-android-x86-v1.9.36.apk` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.36.apk) |
+| `mhrv-rs-android-x86_64-v1.9.36.apk` | 20.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.36.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 10.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
 | `mhrv-rs-linux-musl-arm64.tar.gz` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
 | `mhrv-rs-macos-amd64.tar.gz` | 8.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
 | `mhrv-rs-macos-amd64-app.zip` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 7.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
 | `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 8.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-raspbian-armhf.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 8.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amiryou2uber-png/mmko/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 
 ---
 
